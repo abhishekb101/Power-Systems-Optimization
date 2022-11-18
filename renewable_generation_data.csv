@@ -1,5 +1,5 @@
-﻿rg,ROpCost,RCap
-Wind,5.02,37043
-Solar,1.37,13573
-Geothermal,15.41,0
-Biomass,46.8,363
+﻿rg,ROpCost,RCap,Ren_RR
+Wind,5.02,37043,7408.6
+Solar,1.37,13573,10179.75
+Geothermal,15.41,5000,5000
+Biomass,46.8,363,181.5
